@@ -14,10 +14,12 @@
 - mains errosion (which can affect the nutrient cycle)
 - protects against polluting waterways
 
+Data is parsed by private, public and National Forest sections
+
 # Fire 
 - increases nitrogen, phosphorus, mecury and dissolved salts. 
 - risidue from fire supressants
-- 
+
 
 # Insect and Disease 
 - invasive species attack trees faster since their are no natural preditors 
