@@ -1,12 +1,9 @@
 ## Surface Drinking Water
-# The Colorado River (Upper and Lower HUCs)
+# The Long Term Impact that Developments Imply
 
 - HUC = Hydorlogic Unit Code
   - Each HUC is about 35 square miles. 
 
-
-
-# SHORT TERM IMPACT 
 
 # Forest
 - based on land cover and ownership of the forest
@@ -15,6 +12,8 @@
 - protects against polluting waterways
 
 Data is parsed by private, public and National Forest sections
+
+# SHORT TERM IMPACT 
 
 # Fire 
 - increases nitrogen, phosphorus, mecury and dissolved salts. 
@@ -36,3 +35,6 @@ Data is parsed by private, public and National Forest sections
 
 
 The index of importance surface level drinking water is evaluated by Highly threatened, highly Forested and importance. 
+# DATA Cleaning
+
+I ensured that the data points that I used were not rated at zero to screw the mean values. 
