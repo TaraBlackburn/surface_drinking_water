@@ -18,7 +18,7 @@
 # Development
 - chronic water pollution from housing developments
 - permenant forest loss
-- This is the most severe beacuse it 
+- This is the most severe beacuse it is choronic, meaning the pollution is going to continue until the development is gone. 
 
 
 ## Hypothesis Testing
