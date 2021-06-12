@@ -24,10 +24,14 @@
 ## Hypothesis Testing
 Hn: The population does not affect the level of threat of development to forests where two tails are 5% each
 Ha: The population does affect the level of threat of development to forest
-50930 - how many sub regions have a surface water level importance (swli) above 0
-42432 - how many of those sub regions (w/ swli) are affected by development 
-4512 - how many of those sub regions (w/ swli and is affected by development) serve a population total  
-4372 - how many of those sub region's forests to swli are highly threatened by developments. 
+
+50,930 - how many sub regions have a surface water level importance (swli) above 0
+
+42,432 - how many of those sub regions (w/ swli) are affected by development 
+
+4,512 - how many of those sub regions (w/ swli and is affected by development) serve a population total 
+
+4,372 - how many of those sub region's forests to swli are highly threatened by developments. 
 
 
 
@@ -45,4 +49,4 @@ Ha: The population does affect the level of threat of development to forest
 
 # DATA Cleaning
 
-I ensured that the data points that I used were not rated at zero to screw the mean values. 
+I ensured that the data points that I used were not rated at zero to screw the mean values.
